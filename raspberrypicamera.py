@@ -25,3 +25,5 @@ cv2.waitKey(0)			     # Make the program wait until you press a key before conti
 
 cap.close()                     # Release the camera object (if using picamera2)
 cv2.destroyAllWindows()		# Close all opencv pop-up windows
+
+# if you're reading this, the github connection worked!!!
